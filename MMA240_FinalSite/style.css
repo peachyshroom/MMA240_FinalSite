@@ -42,15 +42,17 @@ nav{
 
     h1{ 
         font-family:'Patrick Hand SC', cursive;
-        font-size: 70px;
+        font-size: 100px;
         color:#2093cc;
+        background-color: #f6b0b2;
         text-align: center;
-        padding-top: 60px;
+        padding-top: px;
         margin-bottom:24px;
         ;
 
         }
-.h1{ color: #ffffff}
+.h1{ color: #ffffff;
+    font-size:60px;}
 
 #farm_page{
     display: grid;
